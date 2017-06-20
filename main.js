@@ -6,7 +6,7 @@ class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Initial Commit</Text>
+        <Text>Haters gonna hate</Text>
       </View>
     );
   }
